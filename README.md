@@ -1,16 +1,48 @@
-## Hi there 👋
+# Привет, я Atlas
 
-<!--
-**limbovvv/limbovvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Развиваюсь в направлении DevOps, Linux-инфраструктуры и автоматизации.
 
-Here are some ideas to get you started:
+## Основные направления
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux и Astra Linux
+- DevOps
+- автоматизация инфраструктуры
+- Docker и контейнеризация
+- компьютерные сети
+- Python и Bash
+- информационная безопасность
+- DevSecOps
+
+## Текущий стек
+
+`Linux` `Astra Linux` `Python` `Bash` `Docker` `PostgreSQL` `Git` `TCP/IP`
+
+## Сейчас изучаю
+
+- CI/CD
+- Nginx
+- Ansible
+- мониторинг инфраструктуры
+- Terraform
+- DevSecOps-практики
+
+## Проекты
+
+### Telegram-платформа
+Контейнеризированное приложение на FastAPI с PostgreSQL, Redis, Celery и Nginx.
+
+### Веб-редактор LiDAR
+Full-stack приложение для обработки и редактирования облаков точек.
+
+### Contract Control
+Система контроля жизненного цикла государственных контрактов.
+
+Проект находится в разработке и используется как практический полигон для изучения Linux, Docker, CI/CD, Ansible, мониторинга и инфраструктурной автоматизации.
+
+## О себе
+
+Имею подготовку в области информационных технологий и информационной безопасности.
+
+Работал с Linux, сетями, виртуализацией и инструментами ИБ. Участвовал в CTF и практических соревнованиях по информационной безопасности.
+
+Сейчас основной фокус — Linux-инфраструктура, DevOps и автоматизация.
